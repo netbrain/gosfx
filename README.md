@@ -13,4 +13,4 @@ Invoking `gosfx-packer -output ./my-application  -main "entrypoint.sh arg1 arg2"
 When invoking the executable `my-application` the application launches and starts unpacking the files read from the binary to a temporary folder and with this folder as cwd invokes the `entrypoint.sh` command.
 
 [![Go Doc](https://img.shields.io/badge/godoc-reference-blue.svg?style=flat-square)](http://godoc.org/github.com/netbrain/gosfx)
-[![Go Report Card](https://goreportcard.com/badge/github.com/golang-standards/project-layout?style=flat-square)](https://goreportcard.com/report/github.com/netbrain/gosfx)
+[![Go Report Card](https://goreportcard.com/badge/github.com/netbrain/gosfx)](https://goreportcard.com/report/github.com/netbrain/gosfx)
